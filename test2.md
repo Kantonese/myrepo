@@ -7,7 +7,7 @@ output:
     keep_md: yes
 ---
 
-```{r, echo=FALSE}
-print("Hier steht nix")
-```
 
+```
+## [1] "Hier steht nix"
+```
